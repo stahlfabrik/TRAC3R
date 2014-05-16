@@ -1,6 +1,8 @@
 TRAC3R - MOC LEGO Mindstorms EV3 drawing robot arm
 ------
 
+See the video of TRAC3R in action: http://youtu.be/r8s6GkPP5EM
+
 To use TRAC3R, do not forget to include the SVG Salamander 
 (https://svgsalamander.java.net) SVG engine for Java to the things you transfer to EV3 and
 add it to the libraries path in your ant file. The "tiny" version is good enough.
